@@ -1,3 +1,4 @@
+![nps](https://user-images.githubusercontent.com/5229468/109444384-e1724480-7a1b-11eb-941d-91af17162986.png)
 # api-nodejs-NPS
 
 Api Node.JS para calcular o NPS (Net Promoter Score) de uma empresa. 
